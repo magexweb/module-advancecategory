@@ -1,1 +1,1 @@
-# module-advancecategory
+# Magexweb Advance Category Extension for Magento 2
